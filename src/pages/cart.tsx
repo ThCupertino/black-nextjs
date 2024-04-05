@@ -11,7 +11,7 @@ const Cart: NextPage = () => {
       </Head>
 
       <h1>
-        Carrinho
+        Carrinho de compras
       </h1>
     </>
   )
