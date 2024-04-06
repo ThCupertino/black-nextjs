@@ -50,7 +50,7 @@ const Static: NextPage = (props: {
 
         <Col>
           <h3>
-            Gerado no cliente:
+            Gerado no cliente: 
           </h3>
           <h2>
             {clientSideData?.timestamp.toString()}
